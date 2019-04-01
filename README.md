@@ -207,7 +207,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 **Create a new branch so you can check items like this, just put an x in the brackets: [x]**
 
 
-    Fork a branch and follow the commands below
+    [x]Fork a branch and follow the commands below
 
 `git checkout -b progress`
 
